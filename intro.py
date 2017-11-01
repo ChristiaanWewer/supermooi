@@ -7,3 +7,5 @@ git push
 
 or:
     git pull
+
+commitdieshit
