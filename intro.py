@@ -1,14 +1,9 @@
-boehoe
-ffs
-geflambeerd stukje zoethout
-wertyu
-dank memes
-hoi
+Eerst:
+git clone [url]
 
-add
-commit
-push
+git add file_name.language
+git commit -m "Message"
+git push
 
 or:
-    pull
-
+    git pull
